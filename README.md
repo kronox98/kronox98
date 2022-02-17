@@ -2,7 +2,7 @@
 
 I'm software developer 
 
-Angular, Ionic, Flutter ❤
+- 🔭 I’m currently working on Angular, Ionic, Flutter and Python(Django, FastAPI) ❤
 
 <!--
 **kronox98/kronox98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
